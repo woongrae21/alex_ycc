@@ -1,0 +1,4 @@
+# github auto login
+git config credential.helper store
+git push http://github.com/woongrae21/alex_ycc.git
+
